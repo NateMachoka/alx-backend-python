@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 a type-annotated function that concatenates string str1 and string str2
 returns a concatenated string
